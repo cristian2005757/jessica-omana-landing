@@ -1,6 +1,8 @@
 # Jessica Omaña — Manual UGC-Airbnb
 
-Landing page de producto digital estilo Hotmart, enfocada en conversión. Diseño pensado para destacar ante reclutadores: UX copy, Core Web Vitals, accesibilidad y microinteracciones.
+Landing page de producto digital estilo Hotmart, enfocada en conversión.
+
+**[Live Site](https://jessica-omana-landing.vercel.app)** Diseño pensado para destacar ante reclutadores: UX copy, Core Web Vitals, accesibilidad y microinteracciones.
 
 ## Tecnologías
 
