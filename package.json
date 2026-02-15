@@ -1,0 +1,17 @@
+{
+  "name": "jessica-omana-landing",
+  "version": "1.0.0",
+  "description": "Landing page de producto digital estilo Hotmart, enfocada en conversión: hero con propuesta de valor, beneficios, contenido incluido, testimonios, FAQ y CTA con modal de checkout (demo).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "img:hero": "node -e \"require('sharp')('assets/img/Imagen landing.jpg').webp({quality:82}).toFile('assets/img/hero-1.webp').then(()=>console.log('OK'))\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sharp": "^0.34.5"
+  }
+}
